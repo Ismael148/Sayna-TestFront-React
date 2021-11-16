@@ -1,6 +1,6 @@
 # Test Node/Express ReactJS
 
- I have push the application on two repository, Here is the Link to the [BACKEND](https://github.com/Ismael148/Sayna-TestBack-Node)
+ I have push the application on two repository, Here is the Link to the [BACKEND](https://github.com/Ismael148/Sayna-TestBack-Node) repository
 
 The application is hosting on heroku https://mern-front-ismael.herokuapp.com/
 
@@ -36,9 +36,9 @@ To run this application to local
 >> 
 > `$ npm install`
 
->>*Go to server File*
+>>*Run the application*
 >>
->`$ npm run dev`
+>`$ npm start`
 
 >>*To build application*
 >>
