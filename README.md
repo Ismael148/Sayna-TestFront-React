@@ -24,7 +24,7 @@ To run this application to local
 
 >> Clone the Project
 >> 
-> `$ git clone https://github.com/Ismael148/Sayna-TestBack-Node.git`
+> `$ git clone https://github.com/Ismael148/Sayna-TestFront-React.git`
 > 
 >> Create DATABASES on MongoDB
 >
@@ -43,7 +43,7 @@ To run this application to local
 ## Features
 
 - Authentication with JWT 
--  Register
+- Register
 - Login
 - Logout
 - Update User profile
